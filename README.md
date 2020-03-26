@@ -1,2 +1,2 @@
 # CS290
-# OSU Web Development 
+OSU Web Development S2020
